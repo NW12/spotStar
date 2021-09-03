@@ -1,0 +1,43 @@
+Use Node#12
+Token Name                  = SpotStar
+Token symbol                = RedOne 
+Supply                      = 200000000
+Decimals                    = 18
+
+maxTokens                       = 200,000,000
+totalTokensForSale              = 140,000,000
+
+Minimum Sending Amount      =  0.5 ETH
+Maximum Sending Amount      =  10000 ETH
+
+Soft Cap                    =  5000 ETH
+Hard Cap                    =  100000 ETH
+                PRIVATE-SALE
+Start Date                      = August 14 00:00 UTC  => 
+End Date                        = September 17 23:59 UTC  => 
+Token Price                     = 1 ETH = 2000 Tokens
+Tokens for sale                 = 35 Million Tokens         
+Unsold Tokens of PRIVATE-SALE   = Transferred to Main PRE-ICO
+
+                    PRE-ICO
+Start Date                  = September 17 00:00 UTC => 
+End Date                    = September 30 23:59 UTC => 
+Token Price                 = 1 ETH = 2000 Tokens
+Tokens for sale             = 21 Million Tokens
+Unsold Tokens of PRE-ICO    = Transferred to ICO 1st Round
+
+                    1st-ROUND
+Start Date                  = October 1 00:00 UTC => 
+End Date                    = November 1 23:59 UTC => 
+Token Price                 = 1 ETH = 2000 Tokens
+Tokens for sale             = 42 Million Tokens
+Unsold Tokens of PRE-ICO    = Transferred to ICO 2nd Round
+
+                    2nd-ROUND
+Start Date                  = November 1 00:00 UTC => 
+End Date                    = December 1 23:59 UTC => 
+Token Price                 = 1 ETH = 2000 Tokens
+Tokens for sale             = 42 Million Tokens
+
+
+Unsold tokens will be transferred to the owner.
